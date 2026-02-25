@@ -3,6 +3,19 @@
 **Prepared:** 2026‑02‑25  
 **Prepared by:** TARS  
 
+## Repository guide (updated)
+
+- **Primary general report:** `INVESTIGATIVE_INTERVIEWING_REPORT.md`
+- **Corporate/tech-company revision:** `INVESTIGATIVE_INTERVIEWING_REPORT_CORPORATE_REVISION.md`
+- **Ready-to-use toolkit:** `toolkit/`
+  - `01_CASE_INTAKE_AND_PLAN_TEMPLATE.md`
+  - `02_INTERVIEW_RUN_OF_SHOW_AND_QUESTION_BANK.md`
+  - `03_CREDIBILITY_MATRIX_TEMPLATE.md`
+  - `04_CONFIDENCE_RUBRIC_AND_DECISION_RULES.md`
+  - `05_SECOND_REVIEW_AND_HIGH_RISK_TRIGGERS.md`
+  - `06_FINDINGS_MEMO_TEMPLATE.md`
+  - `07_RETALIATION_MONITORING_PLAN_TEMPLATE.md`
+
 > **Disclaimer:** This report is for informational and policy-development purposes. It is not legal advice. Agencies should confirm local law, procedure, and court rulings before changing practice.
 
 ---
